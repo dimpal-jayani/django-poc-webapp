@@ -80,8 +80,6 @@ WSGI_APPLICATION = 'quickstartproject.wsgi.application'
 #     'default': {
 #         'ENGINE': 'mssql',
 #         'NAME': 'kpi_database',
-#         # 'USER': 'whcomceneur_im',
-#         # 'PASSWORD': 'Q@tMtrX4GA',
 #         'HOST': 'localhost\SQLEXPRESS01',
 #         'PORT': '',
 #         'OPTIONS': {
